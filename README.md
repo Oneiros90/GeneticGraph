@@ -12,3 +12,4 @@ The tool has been made with Java and with the [JGAP](https://sourceforge.net/pro
 Please try it yourself, the tool can be downloaded from the [release section](https://github.com/Oneiros90/GeneticGraph/releases) 
 
 ![screenshot](https://raw.githubusercontent.com/Oneiros90/GeneticGraph/master/screenshots/1.jpg)
+![screenshot](https://raw.githubusercontent.com/Oneiros90/GeneticGraph/master/screenshots/2.jpg)
